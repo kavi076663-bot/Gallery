@@ -1,4 +1,4 @@
-<img width="1889" height="927" alt="Screenshot 2025-10-08 142500" src="https://github.com/user-attachments/assets/2bc674e5-ab63-4e45-9159-087bf4f624be" /># Ex.08 Design of Interactive Image Gallery
+
 # Date:08\10\2025
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -146,7 +146,8 @@ popup.addEventListener('click', e => {
 # OUTPUT:
 
 ![alt text](<Screenshot 2025-10-08 140933.png>)
-![alt text](<Screenshot 2025-10-08 142500.png>)
+<img width="1889" height="927" alt="Screenshot 2025-10-08 142500" src="https://github.com/user-attachments/assets/cbcbd155-8172-4849-9875-510de5bdb284" />
+
 
 
 # RESULT:
